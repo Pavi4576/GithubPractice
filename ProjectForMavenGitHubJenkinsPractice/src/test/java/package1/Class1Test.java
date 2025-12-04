@@ -11,6 +11,7 @@ public class Class1Test {
 
 		Reporter.log("*************Hi Pavithran Sir************",true);
 		Reporter.log("*************Hi Pavithran Sir************",true);
+		Reporter.log("*************Bye Pavithran Sir************",true);
 		
 	}
 	
